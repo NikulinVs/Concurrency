@@ -21,5 +21,6 @@ For compiling the code you will need `g++-7` compiler.
 ## Links ##
 
 The implementation of STM I used: https://github.com/graninas/cpp_stm_free
+
 The immutable list implementation:
 https://github.com/BartoszMilewski/Okasaki/blob/master/List/List.h

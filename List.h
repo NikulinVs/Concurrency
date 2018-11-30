@@ -8,13 +8,6 @@
 #include <iterator>
 #include <iostream> // print
 
-void examp()
-{
-  std::shared_ptr<int> ptr1 = std::make_shared<int>(42);
-  std::shared_ptr<int> ptr2 = ptr1;
-  std::cout << ptr2.use_count() << std::endl;
-}
-
 template<class T>
 class List
 {

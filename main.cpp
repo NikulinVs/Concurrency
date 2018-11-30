@@ -80,8 +80,6 @@ void read_from_list(int* acc)
 
 int main()
 {
-    examp();
-
     int acc1 = 0;
     int acc2 = 0;
     int acc3 = 0;
